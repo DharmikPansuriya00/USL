@@ -5,6 +5,12 @@
 ![Clustering](https://img.shields.io/badge/Algorithms-KMeans%20%7C%20Agglomerative%20%7C%20DBSCAN-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+
+## 🎥 Video Submission Link
+
+📌 **Practical Exam Video:** [Click here to watch the video](https://drive.google.com/file/d/12-RPgQunJLVzQhoMLlp2HNZGMHLlOnpl/view?usp=sharing)
+
+
 ## 📌 Project Overview
 
 This project performs **Mall Shopper Profiling** using unsupervised learning. The aim is to identify natural customer groups based on mall visitors' **annual income**, **spending score**, **age**, and **gender**.
